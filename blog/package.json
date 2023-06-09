@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiminh287/Blog_NodeJs.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "blog"
+  ],
+  "author": "HaiMinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haiminh287/Blog_NodeJs/issues"
+  },
+  "homepage": "https://github.com/haiminh287/Blog_NodeJs#readme",
+  "description": ""
+}
